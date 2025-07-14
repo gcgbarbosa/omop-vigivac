@@ -1,0 +1,11 @@
+[project]
+name = "vigivac-omop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=2.3.1",
+    "pyarrow>=20.0.0",
+    "pyspark>=3.0.0",
+]
